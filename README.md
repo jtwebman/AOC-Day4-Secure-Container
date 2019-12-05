@@ -1,4 +1,4 @@
-# Advent of Code - Day 4 - 2019: https://adventofcode.com/2019/day/4
+# Advent of Code - Day 4 - 2019: Secure Container
 
 This is my day 4 Advent of Code solution.
 
